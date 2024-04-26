@@ -1,0 +1,21 @@
+﻿body {
+    background-color: aliceblue;
+   
+}
+footer{
+    text-align: center;
+}
+
+.titulo{
+    
+}
+
+
+
+.nav-item a:hover{
+    font-weight: bold;
+}
+
+header{
+    background-color: azure;
+}

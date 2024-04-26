@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\downloads\\appsegundo_e_appterceiro\\appterceiro\\appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,8 +15,28 @@
       "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\downloads\\appsegundo_e_appterceiro\\appterceiro\\appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\downloads\\appsegundo_e_appterceiro\\appterceiro\\appterceiro\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\downloads\\appsegundo_e_appterceiro\\appterceiro\\appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\downloads\\appsegundo_e_appterceiro\\appterceiro\\appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{097BCF32-4FF7-481F-BAFF-5287CF64A0A8}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:58:50.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\estilo.css",
+              "RelativeDocumentMoniker": "AppTerceiro\\wwwroot\\css\\estilo.css",
+              "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\estilo.css",
+              "RelativeToolTip": "AppTerceiro\\wwwroot\\css\\estilo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T12:58:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppTerceiro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppTerceiro\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T12:22:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Fisica.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Fisica.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Fisica.cs",
@@ -58,31 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T13:06:29.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Juridica.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridica.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Juridica.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridica.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Home\\Juridica.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T13:01:58.895Z"
+              "WhenOpened": "2024-04-12T13:01:58.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Juridica.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Juridica.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Juridica.cs",
@@ -94,44 +130,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T12:03:42.002Z"
+              "WhenOpened": "2024-04-12T12:03:42.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T11:42:19.887Z"
+              "WhenOpened": "2024-04-11T11:42:19.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AppTerceiro\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBgAAAAbAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T11:31:17.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Downloads\\AppSegundo_e_AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Pessoa.cs",

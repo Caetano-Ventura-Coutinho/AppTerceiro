@@ -2,9 +2,16 @@
 @{
     ViewData["Title"] = "Home Page";
 }
-
-<h2> Código: @Model.Id</h2>
-<h2> Nome: @Model.Nome</h2>
-<h2> Sexo: @Model.Sexo</h2>
-<h2> RG: @Model.RG</h2>
-<h2> Digito: @Model.Dig_RG</h2>
+<main aria-labelledby="title">
+    <h1 class="titulo"><b>Cadastro de pessoas</b></h1>
+    <h2> Código: @Model.Id</h2>
+    <h2> Nome: @Model.Nome</h2>
+    <h2> Sexo: @Model.Sexo</h2>
+    <h2> RG: @Model.RG - @Model.Dig_RG</h2>
+    <hr />
+    <h1>Exemplo com ViewData</h1>
+    <h2>@ViewData["Id"]</h2>
+    <h2>@ViewData["Nome"]</h2>
+    <h2>@ViewData["Sexo"]</h2>
+    <h2>@ViewData["RG"] - @ViewData["Dig_rg"]</h2>
+</main>

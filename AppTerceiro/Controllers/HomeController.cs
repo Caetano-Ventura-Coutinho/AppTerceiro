@@ -25,6 +25,12 @@ namespace AppTerceiro.Controllers
                 Dig_RG = '4'
 
             };
+            ViewData["Id"] = fisica.Id;
+            ViewData["Nome"] = fisica.Nome;
+            ViewData["Sexo"] = fisica.Sexo;
+            ViewData["CPF"] = fisica.CPF;
+            ViewData["RG"] = fisica.RG;
+            ViewData["Dig_RG"] = fisica.Dig_RG;
             return View(fisica);
         }
 

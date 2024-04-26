@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppTerceiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+121b62d46ec2705cba46063f25676ce161f1d36d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppTerceiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppTerceiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
