@@ -1,0 +1,16 @@
+﻿@model AppTerceiro.Models.Pessoa
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <h1>Código: @Model.Id</h1>
+    <h1>Nome: @Model.Nome</h1>
+    <h1>Sexo: @Model.Sexo</h1>
+    <hr />
+    <h2>Código: @ViewBag.Id</h2>
+    <h2>Nome: @ViewBag.Nome</h2>
+    <h2>Sexo: @ViewBag.Sexo </h2>
+</p>
